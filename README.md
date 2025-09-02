@@ -27,7 +27,7 @@ bridging the gap between **blockchain infra** and **developers**.
 ---
 
 ## 📌 Featured Projects  
-### 🔹 [NexusFi](https://github.com/your-link)  
+### 🔹 [NexusFi](https://github.com/Nexus-Fi)  
 Restaking infrastructure prototype across EVM & Cosmos.  
 - Built frontend dashboards  
 - Community of 2,000+ early supporters  
