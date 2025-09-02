@@ -38,7 +38,7 @@ AI-powered DeFi lending optimiser with wallet authentication & smart contract in
 ### 🔹 [SwipeBet](https://swipe-bet.vercel.app/)  
 Prediction market on NEAR — 2nd place at Redacted Hackathon.  
 
-### 🔹 [MinaPoker](https://github.com/MinaPoker/PokerFrontend.git))  
+### 🔹 [MinaPoker](https://github.com/MinaPoker/PokerFrontend.git)  
 Privacy-focused poker dApp using **zk-SNARKs** (Mina Navigator Fellowship project).  
 
 ---
